@@ -1,15 +1,10 @@
 
 # channel_game
-# 链游戏 区块链游戏 链游 各种链游戏
-# hash_game_all
-# hash游戏 哈希双龙 幸运哈希 哈希牛魔王 庄闲合 各种游戏玩法
-
-# 需要的联系飞机账号 @tt88pay 请备注是github看到的
+链游戏 区块链游戏 链游 各种链游戏
 
 # 链游案例--（欧美高端NFT链游)【艾格拉斯 - GoldenNFT】：
 
 ~~~
-# 需要的联系飞机账号 @tt88pay 请备注hash游戏 是github看到的
 
 复制网址到"币安BSC链"上打开自动登录：
 
@@ -21,24 +16,18 @@ https://dapp.cbdhb.cn/#/
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202111/30/011559z33zlx9z0jjq9wvz.jpg)
 ![](https://bbs.longbasz.com/data/attachment/forum/202111/30/011559xpz5eoryt7o45yeu.jpg)
-# 游戏截图
 
 # 链游案例--（欧洲高端链游)-【生化危机】
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=c75c3114d211a35fced1f0765a471f98)
 
 ~~~
 复制网址到"币安BSC链"上打开自动登录：
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=d5b8ab29c93195107a330e057dd70a62)
 
 https://doomsdayguardian.com/#/
 ~~~
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=03b95dedf066e0190cb4ee8b91df53f0)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=03fcec59c55de45a70e9619a593a3eb1)
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202203/09/225952cpozznn6ga4laxno.jpg)
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202203/09/225616bq0dhdmdhdiz8m3h.jpg)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=0b434c0d8d73a0a67b77a15d902e3f38)
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202203/09/225621vsblqggxq9ygsawz.jpg)
 
@@ -173,11 +162,7 @@ Dapp去中心化+后台上传卡牌，会员开盲盒铸币NFT；然后质押NFT
 
 ~~~
 
-~~~
-（复制到TP钱包的"波场链"上打开）
 
-NFT案例：http://yxgame.test.kcode.top/h5/#/
-~~~
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202110/22/215925rqgqc4l4gczbqeel.jpg)
 
@@ -209,6 +194,4 @@ http://game.xtlegends.com?utm_source=tokenpocket
 
 ![](https://bbs.longbasz.com/data/attachment/forum/202110/26/132029vhgkdk10ggb04igg.jpg)
 
-# 后台截图 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=3b1461d480208c64386baf7a1ae36495)
