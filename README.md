@@ -2,6 +2,8 @@
 # channel_game
 链游戏 区块链游戏 链游 各种链游戏
 
+需要的联系飞机账号 @ttt88pay 请备注是github看到的
+
 # 链游案例--（欧美高端NFT链游)【艾格拉斯 - GoldenNFT】：
 
 ~~~
